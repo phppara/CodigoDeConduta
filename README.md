@@ -23,8 +23,8 @@ Os participantes solicitados a parar com o comportamento inadequado devem fazê-
 
 3 – **ANÚNCIOS E LINKS**: Não serão permitidos anúncios de compra e venda de produtos. Não serão aceitos conteúdo e links Hacker e de Pirataria. Caso haja insistência o participante será banido sem aviso prévio.
 
-4 – **CÓDIGO**: Caso queira realizar um post contendo códigos, coloque em algum site de códigos para demonstrá-los. Algum sites mais conhecidos são: , CodePen(http://codepen.io/pen/), JSBin(http://jsbin.com/), JSFiddle(http://jsfiddle.net/) ou o Github(https://github.com/)
+4 – **CÓDIGO**: Caso queira realizar um post contendo códigos, coloque em algum site de códigos para demonstrá-los. Algum sites mais conhecidos são: , CodePen(http://codepen.io/pen/), JSBin(http://jsbin.com/), JSFiddle(http://jsfiddle.net/) ou o Github(https://github.com/).
 
-5- **ORGANIZAÇÃO**: Para mantermos a organização do grupo adicione o tipo de post no inicio da postagem caso note a necessidade de categoriza-lo. Por exemplo: [OFF], [EVENTO], [DICA], [DUVIDA], [VAGA];
+5- **ORGANIZAÇÃO**: Para mantermos a organização do grupo adicione o tipo de post no inicio da postagem caso note a necessidade de categoriza-lo. Por exemplo: [OFF], [EVENTO], [DICA], [DUVIDA], [VAGA].
 
-6 – **DENÚNCIA**: Caso alguma publicação vá contra quaisquer regras aqui mencionadas, favor marcar os admins e/ou marcar como “Denunciar/Spam”
+6 – **DENÚNCIA**: Caso alguma publicação vá contra quaisquer regras aqui mencionadas, favor marcar os admins e/ou marcar como “Denunciar/Spam”.
